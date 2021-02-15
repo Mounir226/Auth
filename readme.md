@@ -1,3 +1,4 @@
+// Testing and comitting for testReadme Github test on https://guides.github.com/activities/hello-world/
 Layouts.ejs
    1. bootswatch.com used for views/layouts
         Basically you grab the css link of what you want and href it in your layouts.ejs. 
